@@ -1,0 +1,16 @@
+
+.item-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+
+.myinfo{
+    padding: 200PX;
+    background-color: lightgray;
+    border-radius: 100PX;
+    width: 60%;
+}
